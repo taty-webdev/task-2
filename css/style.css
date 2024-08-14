@@ -1,0 +1,70 @@
+img {
+  width: 300px;
+  height: 300px;
+  border-radius: 50%;
+}
+
+.flovers {
+  border-radius: 0;
+}
+
+.floversTwo {
+  width: 200px;
+  height: 200px;
+  border-radius: 40px;
+}
+
+h1 {
+  color: red;
+  font-size: 35px;
+  letter-spacing: 5px;
+  text-align: start;
+  text-transform: capitalize;
+}
+
+h2 {
+  color: red;
+  font-size: 35px;
+  letter-spacing: 5px;
+  text-decoration: underline;
+  text-transform: lowercase;
+}
+
+body {
+    background: url("../img/watter.jpg")no-repeat center/cover;
+
+}
+span {
+  color: green;
+}
+
+.text {
+  color: blue;
+  line-height: 30px;
+  text-decoration: line-through;
+}
+
+input {
+    border: 3px solid green;
+    outline: none;
+    padding: 10px10px;
+    margin: 10px;
+}
+
+.btn {
+    background: orange;
+    border: none;
+    color: white;
+    padding: 10px  30px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+.btnTwo {
+    background:palevioletred;
+    border: none;
+    color: white;
+    border-radius: 20px;
+    cursor: pointer;
+    width:100px;
+    height:40px
+}
